@@ -16,5 +16,4 @@
 -   end()
 -   cbegin()
 -   cend()
--
 C++17
